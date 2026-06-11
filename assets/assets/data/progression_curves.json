@@ -1,0 +1,7 @@
+{
+  "base_xp": 1000,
+  "multiplier": 1.15,
+  "max_level": 100,
+  "daily_quest_limit": 5,
+  "milestone_interval": 5
+}

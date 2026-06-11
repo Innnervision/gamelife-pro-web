@@ -1,0 +1,22 @@
+[
+  {
+    "id": "puzzle_quest",
+    "title": "Puzzle Quest",
+    "genre": "puzzle",
+    "difficulty": "medium",
+    "is_multiplayer": false,
+    "is_free": true,
+    "xp_reward": 120,
+    "coin_reward": 40
+  },
+  {
+    "id": "space_strategy",
+    "title": "Space Strategy",
+    "genre": "strategy",
+    "difficulty": "hard",
+    "is_multiplayer": true,
+    "is_free": true,
+    "xp_reward": 180,
+    "coin_reward": 65
+  }
+]

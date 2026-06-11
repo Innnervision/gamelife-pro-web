@@ -1,0 +1,14 @@
+[
+  {
+    "id": "arena_alpha",
+    "name": "Arena Alpha",
+    "modes": ["duel", "team"],
+    "max_players": 8
+  },
+  {
+    "id": "co_op_ruins",
+    "name": "Co-op Ruins",
+    "modes": ["cooperative"],
+    "max_players": 4
+  }
+]
